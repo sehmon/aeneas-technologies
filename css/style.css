@@ -1,0 +1,36 @@
+/* Stylesheet 
+ * Red = #96281B;
+ * White = ffffff;
+ *
+ * */
+
+
+.home-jumbotron {
+    color:#FFFFFF;
+    padding:150px;
+    background:transparent;
+}
+
+.header-row {
+    background-image:url('../img/header.jpg');
+    background-size:cover;
+}
+
+.row {
+    padding:30px 0;
+}
+
+nav {
+    float:top;
+}
+
+.mission-row {
+    background-image:url('../img/ruins.jpg');
+    background-size:100%;
+}
+
+.mission-jumbotron {
+    background:transparent;
+    padding:200px;
+    color:#FFFFFF;
+}
